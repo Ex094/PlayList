@@ -11,6 +11,23 @@ Run the script by typing this command in your console
 
 Then enter the PATH to the folder containing your music collection
 
+## Output
+Outputs a Text File with names of your individual music files
+<pre>
+1 hour of The Avengers theme song
+13 Hours - The Secret Soldiers of Benghazi Soundtrack 10 Forgotten, Lorne Balfe
+AMC Into the Badlands - Intro  Opening Credits
+Army Of Angels by Johannes Bornlöf - [Action Music]
+Assassins Creed IV Black Flag - The High Seas (Track 04)
+audiomachine - Being Alive
+audiomachine - Fallen Army [GRV Music RMX - Redux  Lachrimae Extended]
+audiomachine - Motoneuron
+audiomachine - Quantum
+audiomachine - Shadowfall [GRV Extended RMX]
+audiomachine - Wars Of Faith
+...
+</pre>
+
 ## Tested On
 <ul>
 	<li>Windows 10</li>
